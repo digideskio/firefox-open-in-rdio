@@ -1,0 +1,8 @@
+span.open-in-rdio-link {
+  position: fixed !important;
+  top: 19px;
+  left: 380px;
+  display: block;
+  font-size: 10px;
+  z-index: 101;
+}

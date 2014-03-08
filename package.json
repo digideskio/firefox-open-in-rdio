@@ -1,0 +1,39 @@
+{
+  "name": "open-in-rdio",
+  "title": "Open in Rdio",
+  "id": "jid1-LRVB5cpczIm3Lg",
+  "description": "Open Rdio links in the native Rdio app",
+  "author": "Jannis Leidel",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "preferences": [
+    {
+      "name": "addInlineButton",
+      "title": "Adds a button on the Rdio pages directly.",
+      "description": "When clicked this will open the Rdio app.",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "name": "addBarButton",
+      "title": "Adds a button on the status/menu bar.",
+      "description": "When clicked this will open the Rdio app.",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "name": "autoOpen",
+      "title": "Automatically open Rdio app",
+      "description": "When enabled this will automatically open the Rdio app. If disabled you can use the icon in the status bar.",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "name": "closeTab",
+      "title": "Automatically close tab",
+      "description": "When enabled this will automatically close the tab with the Rdio URL in.",
+      "type": "bool",
+      "value": false
+    }
+  ]
+}
