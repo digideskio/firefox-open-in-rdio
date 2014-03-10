@@ -13,3 +13,6 @@ This is a ripoff of Etienne Lemay's [Safari extension](https://github.com/Etienn
 
     [✓] Automatically open Rdio links       [Default: False]
     [✓] Close tab when opened in Rdio.app   [Default: False]
+    [✓] Add button to Rdio page             [Default: True]
+    [✓] Add button to status/menu bar       [Default: False]
+
